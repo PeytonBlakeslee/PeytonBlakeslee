@@ -1,15 +1,11 @@
-<p align="center">
-  <img src="./assets/hero-accent.svg" width="100%" alt="Abstract dark banner with teal, blue and violet accents" />
-</p>
-
 <h1 align="center">Peyton Blakeslee</h1>
 
 <p align="center">
-  <strong>Cybersecurity · Infrastructure · Software Development</strong>
+  <strong>Cybersecurity · Infrastructure · Developer Tooling</strong>
 </p>
 
 <p align="center">
-  Building, debugging, and improving systems — from self-hosted infrastructure to developer tools and game mods.
+  Working with self-hosted infrastructure, troubleshooting, automation, and AI-assisted projects.
 </p>
 
 <p align="center">
@@ -34,32 +30,37 @@ I'm a network and computer security graduate with an interest in how systems beh
   <br />
   <strong>Homelab &amp; infrastructure</strong>
   <br /><br />
-  Proxmox, Linux and Windows guests, Docker services, networking, monitoring, and a SvelteKit portal for managing my self-hosted environment.
+  Proxmox, Linux and Windows guests, Docker services, networking, monitoring, and a custom web portal for managing my self-hosted environment.
 </td>
 <td width="33%" valign="top" align="center">
   <img src="./assets/icon-tooling.svg" width="68" alt="Developer tooling icon" />
   <br />
   <strong>Tooling &amp; automation</strong>
   <br /><br />
-  Python, C++, PowerShell, and Bash utilities for diagnostics, workflow automation, troubleshooting, and performance-focused development.
+  I plan, test, and refine AI-assisted tools for diagnostics, automation, troubleshooting, and performance. I focus on how the software behaves, not just what the code looks like.
 </td>
 <td width="33%" valign="top" align="center">
   <img src="./assets/icon-modding.svg" width="68" alt="Modding and systems icon" />
   <br />
   <strong>Modding &amp; experiments</strong>
   <br /><br />
-  Borderlands 2 PythonSDK mods, native extensions, input systems, and Unity/C# prototypes. Some repositories stay private until release-ready.
+  AI-assisted Borderlands 2 mods covering input, movement, and performance diagnostics, plus occasional game prototypes. Some repositories stay private until release-ready.
 </td>
 </tr>
 </table>
 
-### Languages & tools
+### Platforms & tools I use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,powershell,bash,linux,windows,docker,git,githubactions,svelte,unity&amp;perline=13" alt="Python, C++, C#, JavaScript, PowerShell, Bash, Linux, Windows, Docker, Git, GitHub Actions, Svelte and Unity" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,docker,github&amp;perline=4" height="48" alt="Windows, Linux, Docker, and GitHub" />
 </p>
 
-`Proxmox VE` · `Virtualization` · `Networking` · `Self-hosting` · `Profiling` · `Debugging`
+<p>
+  <img src="https://img.shields.io/badge/Proxmox%20VE-E57000?style=flat-square&amp;logo=proxmox&amp;logoColor=white" alt="Proxmox VE" />
+  <img src="https://img.shields.io/badge/ChatGPT-AI%20assisted-087F5B?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="ChatGPT for AI-assisted projects" />
+</p>
+
+I use AI coding tools to help build software and mods. My hands-on work focuses on **infrastructure, configuration, troubleshooting, testing, and performance**, rather than claiming expertise in every programming language used in those projects.
 
 ---
 
