@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" fill="none" role="img" aria-label="Modding and systems icon">
+<rect width="96" height="96" rx="18" fill="#0F172A"/><rect x="1" y="1" width="94" height="94" rx="17" stroke="#283A55" stroke-width="2"/>
+<circle cx="31" cy="48" r="8" stroke="#5EEAD4" stroke-width="2.5"/><circle cx="65" cy="30" r="8" stroke="#7DD3FC" stroke-width="2.5"/><circle cx="65" cy="66" r="8" stroke="#A5B4FC" stroke-width="2.5"/>
+<path d="M39 43L57 35M39 53L57 61" stroke="#587089" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M31 44V52M27 48H35" stroke="#5EEAD4" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="65" cy="30" r="2.5" fill="#7DD3FC"/><circle cx="65" cy="66" r="2.5" fill="#A5B4FC"/>
+</svg>
