@@ -49,15 +49,42 @@ I'm a network and computer security graduate with an interest in how systems beh
 </tr>
 </table>
 
-### Platforms & tools I use
+### Systems & services I use
+
+**Infrastructure & networking**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,linux,docker,github&amp;perline=4" height="48" alt="Windows, Linux, Docker, and GitHub" />
+  <img alt="Proxmox VE" src="https://img.shields.io/badge/Proxmox%20VE-E57000?style=for-the-badge&amp;logo=proxmox&amp;logoColor=white" />&nbsp;&nbsp;
+  <img alt="Ubuntu Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" />&nbsp;&nbsp;
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&amp;logo=windows&amp;logoColor=white" />&nbsp;&nbsp;
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Proxmox%20VE-E57000?style=flat-square&amp;logo=proxmox&amp;logoColor=white" alt="Proxmox VE" />
-  <img src="https://img.shields.io/badge/ChatGPT-AI%20assisted-087F5B?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="ChatGPT for AI-assisted projects" />
+  <img alt="Netgear network switches" src="https://img.shields.io/badge/Netgear%20switches-243C7C?style=for-the-badge&amp;logo=netgear&amp;logoColor=white" />&nbsp;&nbsp;
+  <img alt="Spectrum router" src="https://img.shields.io/badge/Spectrum%20router-0A73B9?style=for-the-badge&amp;logo=spectrum&amp;logoColor=white" />&nbsp;&nbsp;
+  <img alt="Home networking" src="https://img.shields.io/badge/Home%20networking-34445E?style=for-the-badge" />
+</p>
+
+**Self-hosted services**
+
+<p>
+  <img alt="Jellyfin" src="https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&amp;logo=jellyfin&amp;logoColor=white" />&nbsp;&nbsp;
+  <img alt="qBittorrent" src="https://img.shields.io/badge/qBittorrent-2F67BA?style=for-the-badge&amp;logo=qbittorrent&amp;logoColor=white" />&nbsp;&nbsp;
+  <img alt="Sonarr" src="https://img.shields.io/badge/Sonarr-2596BE?style=for-the-badge&amp;logo=sonarr&amp;logoColor=white" />&nbsp;&nbsp;
+  <img alt="Radarr" src="https://img.shields.io/badge/Radarr-FFC230?style=for-the-badge&amp;logo=radarr&amp;logoColor=111827" />
+</p>
+
+<p>
+  <img alt="Prowlarr" src="https://img.shields.io/badge/Prowlarr-6F4F9C?style=for-the-badge&amp;logo=prowlarr&amp;logoColor=white" />&nbsp;&nbsp;
+  <img alt="Uptime Kuma" src="https://img.shields.io/badge/Uptime%20Kuma-56B366?style=for-the-badge&amp;logo=uptimekuma&amp;logoColor=white" />
+</p>
+
+**Workflow**
+
+<p>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" />&nbsp;&nbsp;
+  <img alt="ChatGPT for AI-assisted work" src="https://img.shields.io/badge/ChatGPT-087F5B?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
 </p>
 
 I use AI coding tools to help build software and mods. My hands-on work centers on **infrastructure, configuration, troubleshooting, testing, and performance**.
