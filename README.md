@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Working with self-hosted infrastructure, troubleshooting, automation, and AI-assisted projects.
+  Technical work in self-hosted infrastructure, system diagnostics, automation, and AI-assisted projects.
 </p>
 
 <p align="center">
@@ -14,15 +14,13 @@
   <a href="https://www.nexusmods.com/profile/PeytonTB"><img alt="Nexus Mods author profile" src="https://img.shields.io/badge/Nexus%20Mods-263449?style=flat-square&amp;logo=nexusmods&amp;logoColor=F39C46" /></a>
 </p>
 
-<p align="center"><sub>LinkedIn and résumé links will be added when available.</sub></p>
-
 ---
 
-### About me
+### Technical background
 
-I'm a network and computer security graduate interested in infrastructure, networking, and how systems work behind the scenes. I run a Proxmox homelab with Linux and Windows virtual machines, Docker services, a self-hosted media stack, monitoring, and game-server workloads. I also work on troubleshooting, performance diagnostics, and AI-assisted software projects.
+I'm a network and computer security graduate interested in infrastructure, networking, and understanding how systems work. My projects involve a Proxmox homelab, Linux and Windows virtual machines, Docker services, self-hosted applications, monitoring, game-server workloads, and performance diagnostics. I also develop and test AI-assisted software and game mods.
 
-### Focus areas
+### Technical work & projects
 
 <table>
 <tr>
@@ -102,17 +100,14 @@ I use AI coding tools to help build software and mods. My hands-on work centers 
 
 ---
 
-### Elsewhere
+### Projects & releases
 
-- **[Nexus Mods - PeytonTB](https://www.nexusmods.com/profile/PeytonTB)** - releases and public mod pages
-- **LinkedIn:** link to be added
-- **Résumé:** public PDF to be added after review
-- **Portfolio:** optional future website
+- **[GitHub repositories](https://github.com/PeytonBlakeslee?tab=repositories)** - code and projects as they become public.
+- **[Nexus Mods - PeytonTB](https://www.nexusmods.com/profile/PeytonTB)** - mod pages and releases.
+
+Additional project links will be added when the work is ready to share publicly.
 
 <!--
-Follow-up when real public destinations are ready:
-- Replace the LinkedIn placeholder badge with a linked badge to the actual profile.
-- Upload an approved, public resume PDF and link its repository path in the top badge row.
-- Add 2–3 released public projects, if desired.
-- Keep private repositories private until explicitly approved for public release.
+Only link approved public projects. Keep private repositories and
+personal contact information off the public profile.
 -->
