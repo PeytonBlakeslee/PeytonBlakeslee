@@ -18,7 +18,7 @@
 
 ---
 
-### About
+### About me
 
 I'm a network and computer security graduate interested in infrastructure, networking, and how systems work behind the scenes. I run a Proxmox homelab with Linux and Windows virtual machines, Docker services, a self-hosted media stack, monitoring, and game-server workloads. I also work on troubleshooting, performance diagnostics, and AI-assisted software projects.
 
