@@ -1,72 +1,59 @@
-<div align="center">
-  <img src="./assets/profile-header.svg" alt="Peyton Blakeslee | Cybersecurity, infrastructure and software development" width="100%" />
-</div>
+<h1 align="center">Peyton Blakeslee</h1>
 
 <p align="center">
-  <a href="https://www.nexusmods.com/profile/PeytonTB"><img alt="Nexus Mods profile" src="https://img.shields.io/static/v1?label=Nexus%20Mods&message=PeytonTB&color=DA8E50&style=for-the-badge" /></a>
-  <a href="https://github.com/PeytonBlakeslee?tab=repositories"><img alt="GitHub repositories" src="https://img.shields.io/static/v1?label=GitHub&message=Repositories&color=536F91&style=for-the-badge&logo=github" /></a>
+  <strong>Cybersecurity · Infrastructure · Software Development</strong>
 </p>
 
 <p align="center">
-  <strong>Network &amp; Computer Security graduate</strong> &nbsp;•&nbsp; self-hosted infrastructure, debugging, automation, and software development
+  Building, debugging, and improving systems — from self-hosted infrastructure to developer tools and game mods.
+</p>
+
+<p align="center">
+  <a href="https://github.com/PeytonBlakeslee?tab=repositories">GitHub projects</a> &nbsp;·&nbsp;
+  <a href="https://www.nexusmods.com/profile/PeytonTB">Nexus Mods</a> &nbsp;·&nbsp;
+  LinkedIn (coming soon) &nbsp;·&nbsp;
+  Résumé (coming soon)
 </p>
 
 ---
 
-### A little about me
+### About
 
-I like getting into the details of how systems work, from virtual machines and networking to low-level input processing in games. Much of my time is spent **building things, finding bottlenecks, and making them more reliable**.
+I'm a network and computer security graduate with an interest in how systems behave underneath the surface. I spend a lot of time working with virtual machines, networks, automation, and performance diagnostics — and building software to solve problems I run into.
 
-My background is in network and computer security. Outside of that, I work on a Proxmox homelab, self-hosted applications, performance tooling, and software/game development projects.
+### Selected work
 
-### What I'm building
+**01 — Homelab & infrastructure**  
+A Proxmox-based environment running Linux and Windows guests, containerized services, monitoring, and a SvelteKit portal. An ongoing place to experiment with networking, deployment, troubleshooting, and reliability.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-  <img src="./assets/homelab-preview.svg" width="100%" alt="Illustrated overview of my Proxmox homelab" />
-  <h3>Homelab &amp; infrastructure</h3>
-  <p>Virtualized Linux and Windows workloads, Docker services, monitoring, networking, and a SvelteKit portal for managing my self-hosted environment.</p>
-  <p><code>Proxmox VE</code> <code>Docker</code> <code>Linux</code> <code>SvelteKit</code></p>
-</td>
-<td width="50%" valign="top">
-  <img src="./assets/modding-preview.svg" width="100%" alt="Illustrated overview of controller and runtime performance tooling" />
-  <h3>Modding &amp; developer tooling</h3>
-  <p>Borderlands 2 PythonSDK mods and diagnostic tools, particularly controller input, movement, runtime hooks, and native C++ performance paths.</p>
-  <p><code>Python</code> <code>C++</code> <code>Unreal Engine 3</code> <code>GitHub Actions</code></p>
-</td>
-</tr>
-</table>
+**02 — Developer tooling & automation**  
+Python, C++, PowerShell, and Bash utilities for understanding performance, reducing repetitive work, and making complex setups easier to manage.
 
-I also experiment with **Unity and C# game prototypes**, plus smaller scripts and utilities that solve problems in my day-to-day setup. Some projects are private while they're being developed and prepared for release.
+**03 — Game modding & systems**  
+Borderlands 2 PythonSDK mods covering controller input, movement, native extensions, and profiling. I also work on Unity/C# prototypes. Some repositories are private until their releases are ready.
 
-### Technologies I work with
-
-**Languages &amp; scripting**
+### Languages & tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,bash,powershell&amp;theme=dark&amp;perline=6" alt="Python, C++, C#, JavaScript, Bash and PowerShell" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,powershell,bash,linux,windows,docker,git,githubactions,svelte,unity&amp;perline=13" alt="Python, C++, C#, JavaScript, PowerShell, Bash, Linux, Windows, Docker, Git, GitHub Actions, Svelte and Unity" />
 </p>
 
-**Platforms &amp; tooling**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,docker,git,githubactions,svelte,unity&amp;theme=dark&amp;perline=7" alt="Linux, Windows, Docker, Git, GitHub Actions, Svelte and Unity" />
-</p>
-
-`Proxmox VE` &nbsp; `Networking` &nbsp; `Self-hosting` &nbsp; `Virtualization` &nbsp; `Performance profiling`
+**Also:** Proxmox VE · Virtualization · Networking · Self-hosting · Profiling and debugging
 
 ---
 
-### Elsewhere
+### Find me elsewhere
 
-**[Nexus Mods](https://www.nexusmods.com/profile/PeytonTB)** — game-mod author profile. More public project repositories and release links will appear as they become available.
+- **[Nexus Mods — PeytonTB](https://www.nexusmods.com/profile/PeytonTB)** — mods and releases as they become available
+- **LinkedIn:** link to be added
+- **Résumé:** public PDF to be added after review
+- **Portfolio:** optional future website
 
 <!--
-LINKS TO FINISH — update the visible social row when you provide real URLs:
-- LinkedIn: https://www.linkedin.com/in/ACTUAL-SLUG/
-- Public résumé PDF: ./assets/Peyton-Blakeslee-Resume.pdf
-- Personal portfolio (optional): https://YOUR-REAL-PORTFOLIO/
-- Contact: use an approved public address only.
-Never publish the résumé link until the PDF actually exists and has been reviewed.
+When real public destinations are available:
+- Add LinkedIn's actual URL to the centered navigation and this section.
+- Upload a reviewed public resume PDF and then add its link.
+- Add links to 2–3 public projects after their releases.
+- Optionally add a narrow abstract accent graphic, WITHOUT text or diagrams.
+The original SVG illustrations were retired in favor of sharp GitHub-rendered text.
 -->
