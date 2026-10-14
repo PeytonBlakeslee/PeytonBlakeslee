@@ -60,7 +60,7 @@ I'm a network and computer security graduate with an interest in how systems beh
   <img src="https://img.shields.io/badge/ChatGPT-AI%20assisted-087F5B?style=flat-square&amp;logo=openai&amp;logoColor=white" alt="ChatGPT for AI-assisted projects" />
 </p>
 
-I use AI coding tools to help build software and mods. My hands-on work focuses on **infrastructure, configuration, troubleshooting, testing, and performance**, rather than claiming expertise in every programming language used in those projects.
+I use AI coding tools to help build software and mods. My hands-on work centers on **infrastructure, configuration, troubleshooting, testing, and performance**.
 
 ---
 
