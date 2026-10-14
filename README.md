@@ -9,17 +9,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PeytonBlakeslee?tab=repositories"><img alt="GitHub projects" src="https://img.shields.io/badge/GitHub-Projects-111827?style=for-the-badge&amp;logo=github" /></a>
-  <a href="https://www.nexusmods.com/profile/PeytonTB"><img alt="Nexus Mods profile" src="https://img.shields.io/badge/Nexus%20Mods-PeytonTB-D8893A?style=for-the-badge" /></a>
-  <img alt="LinkedIn link coming soon" src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-0A66C2?style=for-the-badge&amp;logo=linkedin" />
-  <img alt="Resume coming soon" src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-Coming%20Soon-4B5563?style=for-the-badge" />
+  <a href="https://github.com/PeytonBlakeslee?tab=repositories"><img alt="GitHub repositories" src="https://img.shields.io/badge/GitHub%20Repositories-263449?style=flat-square&amp;logo=github&amp;logoColor=FFFFFF" /></a>
+  &emsp;
+  <a href="https://www.nexusmods.com/profile/PeytonTB"><img alt="Nexus Mods author profile" src="https://img.shields.io/badge/Nexus%20Mods-263449?style=flat-square&amp;logo=nexusmods&amp;logoColor=F39C46" /></a>
 </p>
+
+<p align="center"><sub>LinkedIn and résumé links will be added when available.</sub></p>
 
 ---
 
 ### About
 
-I'm a network and computer security graduate with an interest in how systems behave underneath the surface. I spend a lot of time working with virtual machines, networking, automation, and performance diagnostics — and building software to solve problems I run into.
+I'm a network and computer security graduate interested in infrastructure, networking, and how systems work behind the scenes. I run a Proxmox homelab with Linux and Windows virtual machines, Docker services, a self-hosted media stack, monitoring, and game-server workloads. I also work on troubleshooting, performance diagnostics, and AI-assisted software projects.
 
 ### Focus areas
 
@@ -30,7 +31,7 @@ I'm a network and computer security graduate with an interest in how systems beh
   <br />
   <strong>Homelab &amp; infrastructure</strong>
   <br /><br />
-  Proxmox, Linux and Windows guests, Docker services, networking, monitoring, and a custom web portal for managing my self-hosted environment.
+  Proxmox virtualization, Linux and Windows guests, home networking, Docker workloads, self-hosted media services, uptime monitoring, and game servers.
 </td>
 <td width="33%" valign="top" align="center">
   <img src="./assets/icon-tooling.svg" width="68" alt="Developer tooling icon" />
@@ -54,37 +55,47 @@ I'm a network and computer security graduate with an interest in how systems beh
 **Infrastructure & networking**
 
 <p>
-  <img alt="Proxmox VE" src="https://img.shields.io/badge/Proxmox%20VE-E57000?style=for-the-badge&amp;logo=proxmox&amp;logoColor=white" />&nbsp;&nbsp;
-  <img alt="Ubuntu Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" />&nbsp;&nbsp;
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&amp;logo=windows&amp;logoColor=white" />&nbsp;&nbsp;
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
-</p>
-
-<p>
-  <img alt="Netgear network switches" src="https://img.shields.io/badge/Netgear%20switches-243C7C?style=for-the-badge&amp;logo=netgear&amp;logoColor=white" />&nbsp;&nbsp;
-  <img alt="Spectrum router" src="https://img.shields.io/badge/Spectrum%20router-0A73B9?style=for-the-badge&amp;logo=spectrum&amp;logoColor=white" />&nbsp;&nbsp;
-  <img alt="Home networking" src="https://img.shields.io/badge/Home%20networking-34445E?style=for-the-badge" />
+  <img alt="Proxmox VE" src="https://img.shields.io/badge/Proxmox%20VE-263449?style=flat-square&amp;logo=proxmox&amp;logoColor=E57000" />
+  &ensp;
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-263449?style=flat-square&amp;logo=ubuntu&amp;logoColor=E95420" />
+  &ensp;
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-263449?style=flat-square&amp;logo=windows&amp;logoColor=6DAEFD" />
+  &ensp;
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-263449?style=flat-square&amp;logo=docker&amp;logoColor=40A9FF" />
+  &ensp;
+  <img alt="Netgear switches" src="https://img.shields.io/badge/Netgear%20switches-263449?style=flat-square" />
+  &ensp;
+  <img alt="GL.iNet Flint 2" src="https://img.shields.io/badge/GL.iNet%20Flint%202-263449?style=flat-square" />
 </p>
 
 **Self-hosted services**
 
 <p>
-  <img alt="Jellyfin" src="https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&amp;logo=jellyfin&amp;logoColor=white" />&nbsp;&nbsp;
-  <img alt="qBittorrent" src="https://img.shields.io/badge/qBittorrent-2F67BA?style=for-the-badge&amp;logo=qbittorrent&amp;logoColor=white" />&nbsp;&nbsp;
-  <img alt="Sonarr" src="https://img.shields.io/badge/Sonarr-2596BE?style=for-the-badge&amp;logo=sonarr&amp;logoColor=white" />&nbsp;&nbsp;
-  <img alt="Radarr" src="https://img.shields.io/badge/Radarr-FFC230?style=for-the-badge&amp;logo=radarr&amp;logoColor=111827" />
-</p>
-
-<p>
-  <img alt="Prowlarr" src="https://img.shields.io/badge/Prowlarr-6F4F9C?style=for-the-badge&amp;logo=prowlarr&amp;logoColor=white" />&nbsp;&nbsp;
-  <img alt="Uptime Kuma" src="https://img.shields.io/badge/Uptime%20Kuma-56B366?style=for-the-badge&amp;logo=uptimekuma&amp;logoColor=white" />
+  <img alt="Jellyfin" src="https://img.shields.io/badge/Jellyfin-263449?style=flat-square&amp;logo=jellyfin&amp;logoColor=A6A8F3" />
+  &ensp;
+  <img alt="Jellyseerr" src="https://img.shields.io/badge/Jellyseerr-263449?style=flat-square" />
+  &ensp;
+  <img alt="qBittorrent" src="https://img.shields.io/badge/qBittorrent-263449?style=flat-square&amp;logo=qbittorrent&amp;logoColor=73AEF5" />
+  &ensp;
+  <img alt="Sonarr" src="https://img.shields.io/badge/Sonarr-263449?style=flat-square&amp;logo=sonarr&amp;logoColor=5BC1F5" />
+  &ensp;
+  <img alt="Radarr" src="https://img.shields.io/badge/Radarr-263449?style=flat-square&amp;logo=radarr&amp;logoColor=F8CC55" />
+  &ensp;
+  <img alt="Prowlarr" src="https://img.shields.io/badge/Prowlarr-263449?style=flat-square" />
+  &ensp;
+  <img alt="Lidarr" src="https://img.shields.io/badge/Lidarr-263449?style=flat-square" />
+  &ensp;
+  <img alt="Gluetun" src="https://img.shields.io/badge/Gluetun-263449?style=flat-square" />
+  &ensp;
+  <img alt="Uptime Kuma" src="https://img.shields.io/badge/Uptime%20Kuma-263449?style=flat-square&amp;logo=uptimekuma&amp;logoColor=76C88A" />
 </p>
 
 **Workflow**
 
 <p>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" />&nbsp;&nbsp;
-  <img alt="ChatGPT for AI-assisted work" src="https://img.shields.io/badge/ChatGPT-087F5B?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-263449?style=flat-square&amp;logo=github&amp;logoColor=FFFFFF" />
+  &ensp;
+  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-263449?style=flat-square&amp;logo=openai&amp;logoColor=79D6B7" />
 </p>
 
 I use AI coding tools to help build software and mods. My hands-on work centers on **infrastructure, configuration, troubleshooting, testing, and performance**.
@@ -93,7 +104,7 @@ I use AI coding tools to help build software and mods. My hands-on work centers 
 
 ### Elsewhere
 
-- **[Nexus Mods — PeytonTB](https://www.nexusmods.com/profile/PeytonTB)** — releases and public mod pages
+- **[Nexus Mods - PeytonTB](https://www.nexusmods.com/profile/PeytonTB)** - releases and public mod pages
 - **LinkedIn:** link to be added
 - **Résumé:** public PDF to be added after review
 - **Portfolio:** optional future website
