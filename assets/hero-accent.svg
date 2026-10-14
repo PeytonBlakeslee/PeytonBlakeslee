@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" fill="none" role="img" aria-label="Abstract dark geometric banner with teal and blue accents">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1200" y2="220" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1220"/><stop offset=".62" stop-color="#101A2C"/><stop offset="1" stop-color="#10172A"/></linearGradient>
+<linearGradient id="stroke" x1="465" y1="150" x2="1180" y2="30" gradientUnits="userSpaceOnUse"><stop stop-color="#5EEAD4" stop-opacity="0"/><stop offset=".45" stop-color="#5EEAD4" stop-opacity=".65"/><stop offset=".75" stop-color="#7DD3FC" stop-opacity=".85"/><stop offset="1" stop-color="#C4B5FD" stop-opacity=".35"/></linearGradient>
+<pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#8BA4C6" fill-opacity=".18"/></pattern>
+</defs>
+<rect width="1200" height="220" rx="16" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="218" rx="15" stroke="#2B3A52" stroke-width="2"/>
+<rect width="1200" height="4" rx="2" fill="#5EEAD4"/>
+<path d="M35 185H1155" stroke="#27364A" stroke-width="1"/>
+<path d="M35 36H1155" stroke="#27364A" stroke-width="1"/>
+<rect x="600" y="12" width="585" height="195" fill="url(#dots)"/>
+<g stroke="url(#stroke)" stroke-width="2" stroke-linecap="round">
+<path d="M460 224C626 192 682 85 825 89S1070 155 1214-12"/>
+<path d="M487 237C657 210 694 111 850 110S1065 184 1222 16" opacity=".76"/>
+<path d="M514 252C682 222 718 139 875 137S1074 210 1228 47" opacity=".5"/>
+<path d="M445 197C585 176 659 58 800 61S1060 126 1205-36" opacity=".42"/>
+</g>
+<g stroke="#86B8CA" stroke-opacity=".24" stroke-width="1.5">
+<circle cx="919" cy="110" r="74"/><circle cx="919" cy="110" r="108"/>
+<path d="M919 2V218M810 110H1028"/>
+</g>
+<circle cx="919" cy="110" r="5" fill="#5EEAD4"/>
+<path d="M58 75V143M58 75H94M58 143H94" stroke="#5EEAD4" stroke-width="3" stroke-linecap="square"/>
+</svg>
