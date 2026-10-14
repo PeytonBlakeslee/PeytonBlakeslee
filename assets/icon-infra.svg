@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" fill="none" role="img" aria-label="Infrastructure icon">
+<rect width="96" height="96" rx="18" fill="#0F172A"/><rect x="1" y="1" width="94" height="94" rx="17" stroke="#283A55" stroke-width="2"/>
+<rect x="26" y="18" width="44" height="16" rx="5" stroke="#5EEAD4" stroke-width="2.5"/>
+<rect x="26" y="40" width="44" height="16" rx="5" stroke="#7DD3FC" stroke-width="2.5"/>
+<rect x="26" y="62" width="44" height="16" rx="5" stroke="#A5B4FC" stroke-width="2.5"/>
+<circle cx="34" cy="26" r="2.5" fill="#5EEAD4"/><circle cx="34" cy="48" r="2.5" fill="#7DD3FC"/><circle cx="34" cy="70" r="2.5" fill="#A5B4FC"/>
+<path d="M74 26H82M74 48H82M74 70H82" stroke="#587089" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
