@@ -18,32 +18,39 @@
 
 ### Technical background
 
-I'm a network and computer security graduate interested in infrastructure, networking, and understanding how systems work. My projects involve a Proxmox homelab, Linux and Windows virtual machines, Docker services, self-hosted applications, monitoring, game-server workloads, and performance diagnostics. I also develop and test AI-assisted software and game mods.
+I'm a network and computer security graduate interested in networking, systems administration, and practical troubleshooting. I maintain a personal homelab and work on AI-assisted software projects, game mods, and tools for diagnosing performance problems.
 
-### Technical work & projects
+### Featured technical work
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center">
-  <img src="./assets/icon-infra.svg" width="68" alt="Infrastructure icon" />
-  <br />
+<td width="84" valign="top">
+  <img src="./assets/icon-infra.svg" width="64" alt="Infrastructure" />
+</td>
+<td valign="top">
   <strong>Homelab &amp; infrastructure</strong>
-  <br /><br />
-  Proxmox virtualization, Linux and Windows guests, home networking, Docker workloads, self-hosted media services, uptime monitoring, and game servers.
+  <p>Maintain a Proxmox-based homelab with Linux and Windows virtual machines, Docker workloads, self-hosted media services, monitoring, and game servers. Work with GL.iNet and Netgear networking equipment, storage, deployment, and troubleshooting.</p>
+  <p><code>Proxmox VE</code> <code>Linux</code> <code>Docker</code> <code>Networking</code></p>
 </td>
-<td width="33%" valign="top" align="center">
-  <img src="./assets/icon-tooling.svg" width="68" alt="Developer tooling icon" />
-  <br />
-  <strong>Tooling &amp; automation</strong>
-  <br /><br />
-  I plan, test, and refine AI-assisted tools for diagnostics, automation, troubleshooting, and performance. I focus on how the software behaves, not just what the code looks like.
+</tr>
+<tr>
+<td width="84" valign="top">
+  <img src="./assets/icon-modding.svg" width="64" alt="Game modding" />
 </td>
-<td width="33%" valign="top" align="center">
-  <img src="./assets/icon-modding.svg" width="68" alt="Modding and systems icon" />
-  <br />
-  <strong>Modding &amp; experiments</strong>
-  <br /><br />
-  AI-assisted Borderlands 2 mods covering input, movement, and performance diagnostics, plus occasional game prototypes. Some repositories stay private until release-ready.
+<td valign="top">
+  <strong>Borderlands 2 mod development</strong>
+  <p>Develop and test AI-assisted PythonSDK mods focused on controller customization, movement behavior, loot handling, and quality-of-life improvements. Work includes native extension integration, regression testing, and Windows compatibility checks.</p>
+  <p><code>PythonSDK</code> <code>Unreal Engine 3</code> <code>Native extensions</code></p>
+</td>
+</tr>
+<tr>
+<td width="84" valign="top">
+  <img src="./assets/icon-tooling.svg" width="64" alt="Performance diagnostics" />
+</td>
+<td valign="top">
+  <strong>Performance profiling &amp; diagnostics</strong>
+  <p>Investigate performance costs within BL2 mods using repeatable in-game tests, profiling logs, hook and input-path timings, and Python/native measurements. The focus is identifying specific expensive operations instead of relying only on overall FPS changes.</p>
+  <p><code>FPS Tester</code> <code>Profiling</code> <code>Benchmarking</code> <code>Debugging</code></p>
 </td>
 </tr>
 </table>
