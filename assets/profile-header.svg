@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="354" viewBox="0 0 1200 354" role="img" aria-labelledby="title desc">
+<title id="title">Peyton Blakeslee — cybersecurity, infrastructure and software development</title>
+<desc id="desc">A dark editorial banner featuring the name Peyton Blakeslee and an abstracted architecture diagram of a self-hosted lab.</desc>
+<defs>
+  <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1524"/><stop offset=".6" stop-color="#101B2C"/><stop offset="1" stop-color="#0A111E"/></linearGradient>
+  <linearGradient id="rail" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#55D6D0"/><stop offset=".72" stop-color="#9FB8FF"/><stop offset="1" stop-color="#FFBF83"/></linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#526782" opacity=".22"/></pattern>
+</defs>
+<rect width="1200" height="354" rx="17" fill="url(#surface)"/>
+<rect x="1" y="1" width="1198" height="352" rx="16" fill="none" stroke="#32445C" stroke-width="1.5"/>
+<rect x="0" y="0" width="1200" height="5" rx="2" fill="url(#rail)"/>
+<rect x="705" y="5" width="494" height="348" fill="url(#dots)" opacity=".65"/>
+<g font-family="Consolas, 'Liberation Mono', monospace" letter-spacing="2.8">
+  <text x="58" y="62" font-size="15" fill="#70DAD3">PB</text>
+  <path d="M94 51 H116" stroke="#486C88" stroke-width="2"/>
+  <text x="130" y="62" font-size="13" fill="#9CAFC5">CYBERSECURITY  /  SYSTEMS  /  SOFTWARE</text>
+</g>
+<text x="54" y="160" font-family="Segoe UI, Arial, sans-serif" font-size="83" font-weight="750" letter-spacing="-2.5" fill="#F0F5FB">Peyton</text>
+<text x="54" y="251" font-family="Segoe UI, Arial, sans-serif" font-size="83" font-weight="750" letter-spacing="-2.5" fill="#F0F5FB">Blakeslee<tspan fill="#55D6D0">.</tspan></text>
+<text x="59" y="308" font-family="Consolas, 'Liberation Mono', monospace" font-size="15" fill="#A8BBD0" letter-spacing=".5">Infrastructure  ·  Automation  ·  Developer tooling</text>
+<path d="M686 41 V315" stroke="#2E4055" stroke-width="1"/>
+<g font-family="Consolas, 'Liberation Mono', monospace">
+  <text x="742" y="61" font-size="12" fill="#7F93AA" letter-spacing="2.2">HOMELAB / SYSTEMS MAP</text>
+  <text x="1121" y="61" font-size="12" text-anchor="end" fill="#5BC8C3">● ONLINE</text>
+</g>
+<g stroke="#45627E" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M934 132 V155 M814 207 V230 M1045 207 V230 M814 207 H1045 M934 207 V230"/>
+  <path d="M814 230 H1050" opacity=".0"/>
+</g>
+<rect x="854" y="88" width="161" height="62" rx="6" fill="#162A3A" stroke="#5ABFBC" stroke-width="1.8"/>
+<g font-family="Consolas, 'Liberation Mono', monospace" text-anchor="middle">
+  <text x="934" y="114" font-size="12" letter-spacing="1" fill="#6AE1D8">HOST</text>
+  <text x="934" y="135" font-size="17" font-weight="bold" fill="#EAF1F7">Proxmox VE</text>
+</g>
+<path d="M934 150 V173 M814 173 H1054 M814 173 V191 M1054 173 V191" fill="none" stroke="#47637D" stroke-width="2"/>
+<g font-family="Consolas, 'Liberation Mono', monospace" text-anchor="middle">
+  <rect x="726" y="191" width="178" height="62" rx="6" fill="#172337" stroke="#445F81"/>
+  <text x="815" y="217" font-size="11" letter-spacing="1.2" fill="#95AACA">WORKLOADS</text>
+  <text x="815" y="239" font-size="15" fill="#E9EFF8">Linux / Windows</text>
+  <rect x="971" y="191" width="168" height="62" rx="6" fill="#172337" stroke="#445F81"/>
+  <text x="1055" y="217" font-size="11" letter-spacing="1.2" fill="#95AACA">SERVICES</text>
+  <text x="1055" y="239" font-size="15" fill="#E9EFF8">Docker stack</text>
+  <path d="M934 253 V270" fill="none" stroke="#47637D" stroke-width="2"/>
+  <rect x="814" y="269" width="240" height="49" rx="6" fill="#1A2935" stroke="#D1A16F"/>
+  <text x="934" y="289" font-size="10" letter-spacing="1.4" fill="#D9B891">INTERFACE</text>
+  <text x="934" y="306" font-size="14" fill="#F2E9DE">Homelab portal</text>
+</g>
+</svg>
